@@ -1,0 +1,28 @@
+character:
+  name: かんまんぼろんミケにゃん僧
+  species: ネコ（三毛猫）
+  role: 踊る修行僧／癒し系ゆるマスコット
+  style: 浮世絵風・2Dイラスト
+  orientation: 左向き（反時計回りの舞い）
+  outfit:
+    type: 僧衣
+    color: 茶系
+    accessories:
+      - 扇子（手に持って踊る用）
+      - 帯
+  expression: にっこり笑顔（修行が楽しそう）
+  pose: 
+    stance: 片足を上げて踊る（かっぽれ風）
+    hand: 片手に扇子、もう一方は舞のポーズ
+  background:
+    type: 単色
+    color: 橙〜金色系（和風演出）
+  animation_intent:
+    loopable: true
+    motion: くるくる回転／左右にひらひら
+    mood: ゆるい・中毒性あり
+  usage:
+    project: かんまんぼろん道場
+    context: VoiceVoxの音声付き祈祷ダンス動画
+    target_audience: 学習疲れの現代人／ミケ猫愛好家／祈り系YouTube視聴者
+    license: 個人利用・動画素材用
