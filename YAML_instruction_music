@@ -1,0 +1,13 @@
+music:
+  bpm: 100
+  mood: "playful, bouncy"
+  instruments:
+    - "synth"
+    - "drum machine"
+    - "bells"
+  structure:
+    - "intro: 2 bars"
+    - "verse: 8 bars"
+    - "chorus: 8 bars"
+    - "outro: 2 bars"
+  rhythm_sync: "matches cat's dance moves"
